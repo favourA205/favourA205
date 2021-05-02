@@ -18,6 +18,19 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Ultimate Guide to Bulid a Todo App with React's useReducer Hook](https://javascript.plainenglish.io/the-ultimate-guide-to-bulid-a-todo-app-with-reacts-usereducer-hook-e00976412fed)
+- [5 Techniques to Manage your Stress Level and Skyrocket your Productivity as a Programmer Without Losing your Mind](https://javascript.plainenglish.io/how-to-clone-an-app-from-github-446541a0302d)
+- [How to Clone a React App From Github](https://javascript.plainenglish.io/how-to-clone-an-app-from-github-446541a0302d)
+- [5 Mistakes I Made When I Started Learning Programming as a Beginner Self Taught Developer](https://medium.com/geekculture/5-mistakes-i-made-when-i-started-learning-programming-as-a-beginner-self-taught-developer-8dd8dae68b12)
+- [Everything You Need To Know To Become a Master at the Python Programming Language ](https://medium.com/analytics-vidhya/everything-you-need-to-know-to-become-a-master-at-the-python-programming-language-7b32a74d1d7d)
+- [The Complete Guide to Hosting Your Static Website to Firebase](https://medium.com/geekculture/the-complete-guide-to-hosting-your-static-website-to-firebase-16c3125bc4a4#6c9c-5a5d429fb0c6)
+- [The Complete Guide to Hosting your React App on Firebase](https://javascript.plainenglish.io/the-complete-guide-to-hosting-your-react-app-on-firebase-226ceea07552)
+
+## [More Blog posts...](https://medium.com/@favouragbejule)
+  <!-- BLOG-POST-LIST:END -->
+
+  ## ➡️ [More Blog Posts...](https://favouragbejule.medium.com)
+
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
