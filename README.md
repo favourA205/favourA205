@@ -16,7 +16,10 @@
 
 - 📫 You can reach me through - **favouragbejule55@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- 🌱 Strive. Learn. Thrive.
+
+- 🍧 Fun fact:  **I think I am funny**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
