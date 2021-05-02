@@ -6,7 +6,6 @@
 
 <p align="left"> <a href="https://twitter.com/agbejulefavour" target="blank"><img src="https://img.shields.io/twitter/follow/agbejulefavour?logo=twitter&style=for-the-badge" alt="agbejulefavour" /></a> </p>
 
-<p align="left"> <a href="https://instagram.com/@flamzy_favour" target="blank"><img src="https://img.shields.io/twitter/follow/agbejulefavour?logo=twitter&style=for-the-badge" alt="agbejulefavour" /></a> </p>
 
 
 - 🔭 I’m currently working on **a React app**
@@ -41,9 +40,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/agbejulefavour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/twitter.svg" alt="agbejulefavour" height="30" width="40" /></a>
-<a href="https://instagram.com/@flamzy_favour" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/instagram.svg" alt="@flamzy_favour" height="30" width="40" /></a>
-<a href="https://medium.com/@favouragbejule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/neutral-icons/src/images/icons/Social/medium.svg" alt="@favouragbejule" height="30" width="40" /></a>
+ * - [LINKEDIN](https://www.linkedin.com/in/favour-agbejule-1b8594209))
+ * - [INSTAGRAM](https://www.instagram.com/flamzy_favour)
+ * - [FACEBOOK](https://www.facebook.com/favour.agbejule.7)
 </p>
 
 
