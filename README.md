@@ -39,11 +39,11 @@
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
- - [LINKEDIN](https://www.linkedin.com/in/favour-agbejule-1b8594209))
+
+ - [LINKEDIN](https://www.linkedin.com/in/favour-agbejule-1b8594209)
  - [INSTAGRAM](https://www.instagram.com/flamzy_favour)
  - [FACEBOOK](https://www.facebook.com/favour.agbejule.7)
-</p>
+
 
 
 
