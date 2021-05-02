@@ -30,7 +30,6 @@
 - [The Complete Guide to Hosting Your Static Website to Firebase](https://medium.com/geekculture/the-complete-guide-to-hosting-your-static-website-to-firebase-16c3125bc4a4#6c9c-5a5d429fb0c6)
 - [The Complete Guide to Hosting your React App on Firebase](https://javascript.plainenglish.io/the-complete-guide-to-hosting-your-react-app-on-firebase-226ceea07552)
 
-## [More Blog posts...](https://medium.com/@favouragbejule)
   <!-- BLOG-POST-LIST:END -->
 
   ## ➡️ [More Blog Posts...](https://favouragbejule.medium.com)
