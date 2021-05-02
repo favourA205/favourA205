@@ -6,6 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/agbejulefavour" target="blank"><img src="https://img.shields.io/twitter/follow/agbejulefavour?logo=twitter&style=for-the-badge" alt="agbejulefavour" /></a> </p>
 
+<p align="left"> <a href="https://instagram.com/@flamzy_favour" target="blank"><img src="https://img.shields.io/twitter/follow/agbejulefavour?logo=twitter&style=for-the-badge" alt="agbejulefavour" /></a> </p>
+
+
 - 🔭 I’m currently working on **a React app**
 
 - 📝 I regularly write articles on [https://www.medium.com/@favouragbejule](https://www.medium.com/@favouragbejule)
